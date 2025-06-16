@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_4.1", "Hillel_Home
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_4.2", "Hillel_Homework_4.2\Homework_4.2.csproj", "{3C90AF83-7C2E-0899-631F-D5BA56E0DC17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_5.1", "Homework_5.1\Homework_5.1.csproj", "{C030DF3C-2A16-4701-AD93-41978B2519E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_5.2", "Homework_5.2\Homework_5.2.csproj", "{C4F42293-3DB5-4D59-8DFB-F4C3B094F2F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{3C90AF83-7C2E-0899-631F-D5BA56E0DC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C90AF83-7C2E-0899-631F-D5BA56E0DC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C90AF83-7C2E-0899-631F-D5BA56E0DC17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C030DF3C-2A16-4701-AD93-41978B2519E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C030DF3C-2A16-4701-AD93-41978B2519E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C030DF3C-2A16-4701-AD93-41978B2519E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C030DF3C-2A16-4701-AD93-41978B2519E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F42293-3DB5-4D59-8DFB-F4C3B094F2F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F42293-3DB5-4D59-8DFB-F4C3B094F2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F42293-3DB5-4D59-8DFB-F4C3B094F2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F42293-3DB5-4D59-8DFB-F4C3B094F2F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
