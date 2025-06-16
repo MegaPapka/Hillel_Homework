@@ -6,14 +6,7 @@ decimal secondNumber  = Convert.ToDecimal(Console.ReadLine());
 
 try
 {
-    if (secondNumber == 0)
-        throw new DivisionByZeroException();
-    else
-        Console.WriteLine(firstNumber / secondNumber);
-}
-catch (DivideByZeroException)
-{
-    Console.WriteLine("You cannot divide by zero");
+    Console.WriteLine(firstNumber / secondNumber);
 }
 catch (Exception)
 {
@@ -22,12 +15,4 @@ catch (Exception)
 finally
 {
     Console.WriteLine("Calculation ended");
-}
-
-public class DivisionByZeroException : Exception
-{
-    public DivisionByZeroException() : base()
-    {
-        
-    }
 }
