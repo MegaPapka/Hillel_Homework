@@ -3,13 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_4.1", "Hillel_Homework_4.1\Homework_4.1.csproj", "{3FAE8839-25F5-8CEE-B6A1-62ACBE7BBB20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_4.1", "Hillel_Homework_4.1\Hillel_Homework_4.1.csproj", "{3FAE8839-25F5-8CEE-B6A1-62ACBE7BBB20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_4.2", "Hillel_Homework_4.2\Homework_4.2.csproj", "{3C90AF83-7C2E-0899-631F-D5BA56E0DC17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_4.2", "Hillel_Homework_4.2\Hillel_Homework_4.2.csproj", "{3C90AF83-7C2E-0899-631F-D5BA56E0DC17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_5.1", "Homework_5.1\Homework_5.1.csproj", "{C030DF3C-2A16-4701-AD93-41978B2519E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_5.1", "Homework_5.1\Hillel_Homework_5.1.csproj", "{C030DF3C-2A16-4701-AD93-41978B2519E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_5.2", "Homework_5.2\Homework_5.2.csproj", "{C4F42293-3DB5-4D59-8DFB-F4C3B094F2F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_5.2", "Homework_5.2\Hillel_Homework_5.2.csproj", "{C4F42293-3DB5-4D59-8DFB-F4C3B094F2F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_6.1.1", "Hillel_Homework_6.1.1\Hillel_Homework_6.1.1.csproj", "{E6B43EAC-845D-4342-9B32-A6C8AC29DA60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_6.1.2", "Hillel_Homework_6.1.2\Hillel_Homework_6.1.2.csproj", "{A2503400-87D3-409A-9657-44A191AC94B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_6.1.3", "Hillel_Homework_6.1.3\Hillel_Homework_6.1.3.csproj", "{38C90F75-C508-435C-8FD6-8807103DFEAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_6.1.4", "Hillel_Homework_6.1.4\Hillel_Homework_6.1.4.csproj", "{30DA315E-C281-4998-8796-6261AC77095F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_6.1.5", "Hillel_Homework_6.1.5\Hillel_Homework_6.1.5.csproj", "{96826A95-B6D0-4FA9-A136-35A4940E7A32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_6.1.6", "Hillel_Homework_6.1.6\Hillel_Homework_6.1.6.csproj", "{1F09B722-DB87-403B-98BE-1CB42C45BAF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_6.1.7", "Hillel_Homework_6.1.7\Hillel_Homework_6.1.7.csproj", "{555CF55A-D4D8-4DD9-A736-88FF9D5AC423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_6.1.8", "Hillel_Homework_6.1.8\Hillel_Homework_6.1.8.csproj", "{11AE48A2-8E9F-40FC-963C-6566F1E538C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +49,38 @@ Global
 		{C4F42293-3DB5-4D59-8DFB-F4C3B094F2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4F42293-3DB5-4D59-8DFB-F4C3B094F2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4F42293-3DB5-4D59-8DFB-F4C3B094F2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6B43EAC-845D-4342-9B32-A6C8AC29DA60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B43EAC-845D-4342-9B32-A6C8AC29DA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B43EAC-845D-4342-9B32-A6C8AC29DA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B43EAC-845D-4342-9B32-A6C8AC29DA60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2503400-87D3-409A-9657-44A191AC94B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2503400-87D3-409A-9657-44A191AC94B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2503400-87D3-409A-9657-44A191AC94B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2503400-87D3-409A-9657-44A191AC94B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C90F75-C508-435C-8FD6-8807103DFEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C90F75-C508-435C-8FD6-8807103DFEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C90F75-C508-435C-8FD6-8807103DFEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C90F75-C508-435C-8FD6-8807103DFEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30DA315E-C281-4998-8796-6261AC77095F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30DA315E-C281-4998-8796-6261AC77095F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30DA315E-C281-4998-8796-6261AC77095F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30DA315E-C281-4998-8796-6261AC77095F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96826A95-B6D0-4FA9-A136-35A4940E7A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96826A95-B6D0-4FA9-A136-35A4940E7A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96826A95-B6D0-4FA9-A136-35A4940E7A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96826A95-B6D0-4FA9-A136-35A4940E7A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F09B722-DB87-403B-98BE-1CB42C45BAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F09B722-DB87-403B-98BE-1CB42C45BAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F09B722-DB87-403B-98BE-1CB42C45BAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F09B722-DB87-403B-98BE-1CB42C45BAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555CF55A-D4D8-4DD9-A736-88FF9D5AC423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555CF55A-D4D8-4DD9-A736-88FF9D5AC423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555CF55A-D4D8-4DD9-A736-88FF9D5AC423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555CF55A-D4D8-4DD9-A736-88FF9D5AC423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11AE48A2-8E9F-40FC-963C-6566F1E538C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AE48A2-8E9F-40FC-963C-6566F1E538C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AE48A2-8E9F-40FC-963C-6566F1E538C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AE48A2-8E9F-40FC-963C-6566F1E538C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
