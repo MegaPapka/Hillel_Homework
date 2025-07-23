@@ -100,3 +100,16 @@ Console.WriteLine($"\nМаксимальний елемент: {max})");
 Console.WriteLine($"Мінімальний елемент: {min})");
 Console.WriteLine($"Координати мінімального елемента: рядок {minRow}, стовпець {minCol}");
 Console.WriteLine($"Координати максимального елемента: рядок {maxRow}, стовпець {maxCol}");
+
+//Завдання 5
+Console.Write("Введіть кількість днів: ");
+int days;
+while (!int.TryParse(Console.ReadLine(), out days) || days < 0)
+{
+    Console.Write("Введіть невід’ємне ціле число: ");
+}
+
+int resultIndex = days % 7;
+DayOfWeek resultDay = (DayOfWeek)resultIndex;
+
+Console.WriteLine($"День через {days} днів від понеділка: {resultDay}");
