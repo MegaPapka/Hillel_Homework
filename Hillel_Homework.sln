@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_7.1", "Hill
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_8.1", "Hillel_Homework_8.1\Hillel_Homework_8.1.csproj", "{F2E61222-5F5F-4CC8-8460-223C44BD355B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_9.1", "Hillel_Homework_9.1\Hillel_Homework_9.1.csproj", "{8BE4D812-D476-424F-836E-D6BABA6247E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -209,6 +211,18 @@ Global
 		{F2E61222-5F5F-4CC8-8460-223C44BD355B}.Release|x64.Build.0 = Release|Any CPU
 		{F2E61222-5F5F-4CC8-8460-223C44BD355B}.Release|x86.ActiveCfg = Release|Any CPU
 		{F2E61222-5F5F-4CC8-8460-223C44BD355B}.Release|x86.Build.0 = Release|Any CPU
+		{8BE4D812-D476-424F-836E-D6BABA6247E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE4D812-D476-424F-836E-D6BABA6247E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE4D812-D476-424F-836E-D6BABA6247E3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8BE4D812-D476-424F-836E-D6BABA6247E3}.Debug|x64.Build.0 = Debug|Any CPU
+		{8BE4D812-D476-424F-836E-D6BABA6247E3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8BE4D812-D476-424F-836E-D6BABA6247E3}.Debug|x86.Build.0 = Debug|Any CPU
+		{8BE4D812-D476-424F-836E-D6BABA6247E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE4D812-D476-424F-836E-D6BABA6247E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE4D812-D476-424F-836E-D6BABA6247E3}.Release|x64.ActiveCfg = Release|Any CPU
+		{8BE4D812-D476-424F-836E-D6BABA6247E3}.Release|x64.Build.0 = Release|Any CPU
+		{8BE4D812-D476-424F-836E-D6BABA6247E3}.Release|x86.ActiveCfg = Release|Any CPU
+		{8BE4D812-D476-424F-836E-D6BABA6247E3}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
