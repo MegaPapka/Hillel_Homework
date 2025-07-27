@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_10.2", "Hil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_10.3", "Hillel_Homework_10.3\Hillel_Homework_10.3.csproj", "{4998C9C5-9D43-43CE-B3E4-84C24DEDE816}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hillel_Homework_11.1", "Hillel_Homework_11.1\Hillel_Homework_11.1.csproj", "{E4E8B1B8-782B-457A-918F-898962E7669C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -265,6 +267,18 @@ Global
 		{4998C9C5-9D43-43CE-B3E4-84C24DEDE816}.Release|x64.Build.0 = Release|Any CPU
 		{4998C9C5-9D43-43CE-B3E4-84C24DEDE816}.Release|x86.ActiveCfg = Release|Any CPU
 		{4998C9C5-9D43-43CE-B3E4-84C24DEDE816}.Release|x86.Build.0 = Release|Any CPU
+		{E4E8B1B8-782B-457A-918F-898962E7669C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E8B1B8-782B-457A-918F-898962E7669C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E8B1B8-782B-457A-918F-898962E7669C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E4E8B1B8-782B-457A-918F-898962E7669C}.Debug|x64.Build.0 = Debug|Any CPU
+		{E4E8B1B8-782B-457A-918F-898962E7669C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E4E8B1B8-782B-457A-918F-898962E7669C}.Debug|x86.Build.0 = Debug|Any CPU
+		{E4E8B1B8-782B-457A-918F-898962E7669C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E8B1B8-782B-457A-918F-898962E7669C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E8B1B8-782B-457A-918F-898962E7669C}.Release|x64.ActiveCfg = Release|Any CPU
+		{E4E8B1B8-782B-457A-918F-898962E7669C}.Release|x64.Build.0 = Release|Any CPU
+		{E4E8B1B8-782B-457A-918F-898962E7669C}.Release|x86.ActiveCfg = Release|Any CPU
+		{E4E8B1B8-782B-457A-918F-898962E7669C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
